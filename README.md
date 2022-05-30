@@ -3,14 +3,10 @@
 - 📊 I’m currently working as Data Analyst
 - 👨‍💻 I’m currently learning Data Architecture and Data Engineering
 - 📫 How to reach me: https://www.linkedin.com/in/franciscosgn/
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FoiaData&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Foia-Python" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Foia-Pandas" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img align="center" alt="Foia-SQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
   <img align="center" alt="Foia-NumPy" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
   <img align="center" alt="Foia-TFlow" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" >
   <img align="center" alt="Foia-R" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
